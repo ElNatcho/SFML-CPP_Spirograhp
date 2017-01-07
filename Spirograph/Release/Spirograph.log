@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(89): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(92): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(104): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Spirograph.vcxproj -> H:\-xX CPP PROJEKTS Xx-\Spirograph\Release\Spirograph.exe
+  Spirograph.vcxproj -> H:\-xX CPP PROJEKTS Xx-\Spirograph\Release\Spirograph.pdb (Full PDB)
